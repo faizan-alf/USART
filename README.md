@@ -21,7 +21,7 @@ This project demonstrates using the USART (Universal Synchronous Asynchronous Re
 
 ## 🗺️ Circuit Diagram
 
-*(Add your circuit diagram image here if available)*
+![image alt](https://github.com/faizan-alf/USART/blob/66d89051878fe23614d2eb5e7885af569593b1b2/usart.png)
 
 ---
 
